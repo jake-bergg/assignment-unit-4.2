@@ -1,0 +1,19 @@
+header {
+    background-color: teal;
+}
+
+.info h2 {
+    background-color: darkslategray;
+    border: 2px black;
+    padding: 10px;
+    margin: 20px;
+    width: fit-content;
+}
+
+.info {
+    background-color: midnightblue;
+    border: 1px black;
+    padding: 10px;
+    margin: 20px auto;
+    width: 80%;
+}
